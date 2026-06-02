@@ -88,7 +88,7 @@ Country :                                     Brazil
    <br>
    If the notebook does not render on GitHub, view it here:
    <br>
-   👉 https://colab.research.google.com/github/Mannat-Arora7/ECommerce-Analysis/blob/main/E-Commerce%20Sales%20Analysis%20using%20Python%20and%20SQL.ipynb
+   👉 https://colab.research.google.com/github/Mannat-Arora7/E-Commerce-Analysis/blob/main/E-Commerce%20Sales%20Analysis%20using%20Python%20and%20SQL.ipynb
 
    <hr>
    <b> About Me </b>
