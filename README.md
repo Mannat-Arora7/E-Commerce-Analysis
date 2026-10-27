@@ -100,7 +100,7 @@ Country :                                     Brazil
    <br>
    <b> LinkedIn: </b> https://www.linkedin.com/in/mannatpreet-kaur-3360303b9/
    <br>
-   <b> E:mail: </b> mannatarora704@gmail.com
+   <b> E:mail: </b> mannatarora705@gmail.com
 
    <hr>
 
